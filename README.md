@@ -1,5 +1,7 @@
 # igo
 
+![AI-Driven Development](https://img.shields.io/badge/AI%20Driven-Development-cccccc)
+
 Generate `.gitignore` files from [github/gitignore](https://github.com/github/gitignore)
 templates.
 
