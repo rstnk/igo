@@ -1,0 +1,9 @@
+Go
+Python
+R
+Global/macOS
+Global/Linux
+Global/Windows
+Global/VisualStudioCode
+Global/JetBrains
+Global/Zed
